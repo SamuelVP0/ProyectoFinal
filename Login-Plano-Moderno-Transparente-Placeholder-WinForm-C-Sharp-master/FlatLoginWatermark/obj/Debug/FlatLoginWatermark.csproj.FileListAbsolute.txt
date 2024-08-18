@@ -21,3 +21,18 @@ C:\Users\ismae\Desktop\Programacion2\Codigos de programacion2\Login-Plano-Modern
 C:\Users\ismae\Desktop\Programacion2\Codigos de programacion2\Login-Plano-Moderno-Transparente-Placeholder-WinForm-C-Sharp-master\FlatLoginWatermark\obj\Debug\FlatLogi.4ABE6C2E.Up2Date
 C:\Users\ismae\Desktop\Programacion2\Codigos de programacion2\Login-Plano-Moderno-Transparente-Placeholder-WinForm-C-Sharp-master\FlatLoginWatermark\obj\Debug\FlatLoginWatermark.exe
 C:\Users\ismae\Desktop\Programacion2\Codigos de programacion2\Login-Plano-Moderno-Transparente-Placeholder-WinForm-C-Sharp-master\FlatLoginWatermark\obj\Debug\FlatLoginWatermark.pdb
+C:\Users\ismae\source\ProyectoFinal-main\Login-Plano-Moderno-Transparente-Placeholder-WinForm-C-Sharp-master\FlatLoginWatermark\obj\Debug\FlatLoginWatermark.csproj.AssemblyReference.cache
+C:\Users\ismae\source\ProyectoFinal-main\Login-Plano-Moderno-Transparente-Placeholder-WinForm-C-Sharp-master\FlatLoginWatermark\obj\Debug\CLAVEADMIN1.FormPassword.resources
+C:\Users\ismae\source\ProyectoFinal-main\Login-Plano-Moderno-Transparente-Placeholder-WinForm-C-Sharp-master\FlatLoginWatermark\obj\Debug\REGISTRO.Form1.resources
+C:\Users\ismae\source\ProyectoFinal-main\Login-Plano-Moderno-Transparente-Placeholder-WinForm-C-Sharp-master\FlatLoginWatermark\obj\Debug\FlatLoginWatermark.FormLogin.resources
+C:\Users\ismae\source\ProyectoFinal-main\Login-Plano-Moderno-Transparente-Placeholder-WinForm-C-Sharp-master\FlatLoginWatermark\obj\Debug\FlatLoginWatermark.Properties.Resources.resources
+C:\Users\ismae\source\ProyectoFinal-main\Login-Plano-Moderno-Transparente-Placeholder-WinForm-C-Sharp-master\FlatLoginWatermark\obj\Debug\FlatLoginWatermark.csproj.GenerateResource.cache
+C:\Users\ismae\source\ProyectoFinal-main\Login-Plano-Moderno-Transparente-Placeholder-WinForm-C-Sharp-master\FlatLoginWatermark\obj\Debug\FlatLoginWatermark.csproj.CoreCompileInputs.cache
+C:\Users\ismae\source\ProyectoFinal-main\Login-Plano-Moderno-Transparente-Placeholder-WinForm-C-Sharp-master\FlatLoginWatermark\obj\Debug\FlatLoginWatermark.exe
+C:\Users\ismae\source\ProyectoFinal-main\Login-Plano-Moderno-Transparente-Placeholder-WinForm-C-Sharp-master\FlatLoginWatermark\obj\Debug\FlatLoginWatermark.pdb
+C:\Users\ismae\source\ProyectoFinal-main\Login-Plano-Moderno-Transparente-Placeholder-WinForm-C-Sharp-master\FlatLoginWatermark\bin\Debug\FlatLoginWatermark.exe.config
+C:\Users\ismae\source\ProyectoFinal-main\Login-Plano-Moderno-Transparente-Placeholder-WinForm-C-Sharp-master\FlatLoginWatermark\bin\Debug\FlatLoginWatermark.exe
+C:\Users\ismae\source\ProyectoFinal-main\Login-Plano-Moderno-Transparente-Placeholder-WinForm-C-Sharp-master\FlatLoginWatermark\bin\Debug\FlatLoginWatermark.pdb
+C:\Users\ismae\source\ProyectoFinal-main\Login-Plano-Moderno-Transparente-Placeholder-WinForm-C-Sharp-master\FlatLoginWatermark\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ismae\source\ProyectoFinal-main\Login-Plano-Moderno-Transparente-Placeholder-WinForm-C-Sharp-master\FlatLoginWatermark\obj\Debug\FlatLogi.4ABE6C2E.Up2Date
+C:\Users\ismae\source\ProyectoFinal-main\Login-Plano-Moderno-Transparente-Placeholder-WinForm-C-Sharp-master\FlatLoginWatermark\obj\Debug\FlatLoginWatermark.Form3.resources
